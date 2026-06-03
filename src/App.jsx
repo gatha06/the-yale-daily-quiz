@@ -130,7 +130,7 @@ function App() {
   // 7. What actually gets rendered on the screen
   return (
     <div style={containerStyle}>
-      <h1 style={{ color: '#f87171', marginBottom: '30px' }}>🍂 The Yale Daily Quiz</h1>
+      <h1 style={{ color: '#f87171', marginBottom: '30px' }}>🍂 The Yale Daily Quiz 🍂</h1>
 
       {quizComplete ? (
         <div style={cardStyle}>
