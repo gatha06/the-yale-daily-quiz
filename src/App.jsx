@@ -22,7 +22,22 @@ function App() {
       hint: "What is the exact name of the fictional town in Connecticut where Lorelai and Rory live?",
       options: ["Woodbury", "Hartford", "Beacon Falls", "Stars Hollow"],
       answer: "Stars Hollow"
-    }
+      },
+      {
+  hint: "What is the name of Lorelai's quirky, highly eccentric dog that has a fear of tissue boxes?",
+  options: ["Mick", "Paul Anka", "Kirk", "Babette"],
+  answer: "Paul Anka"
+},
+{
+  hint: "At what age did Lorelai get pregnant with Rory, causing her to leave her high-society life behind?",
+  options: ["15", "16", "18", "21"],
+  answer: "16"
+},
+{
+  hint: "Who famously delivers the intense reality check to Rory by asking, 'Why did you drop out of Yale?!'?",
+  options: ["Lorelai Gilmore", "Logan Huntzberger", "Jess Mariano", "Luke Danes"],
+  answer: "Jess Mariano"
+}
   ];
 
   // 2. React States to keep track of the game's changing data
